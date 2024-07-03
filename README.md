@@ -7,7 +7,7 @@ This repository contains the code and results for fine-tuning various language m
 - [bart_large_mnli](https://github.com/SahilCarterr/FinetuningLLM/blob/889038653a0933922aaf5aec052c8683d450199e/bart_large_mnli_Finetuned.ipynb)
 - [llama3_8b](https://github.com/SahilCarterr/FinetuningLLM/blob/889038653a0933922aaf5aec052c8683d450199e/Llama3_8b_finetuned.ipynb)
 - [mistral_7b](https://github.com/SahilCarterr/FinetuningLLM/blob/889038653a0933922aaf5aec052c8683d450199e/mistral_7b_v3_finetuned.ipynb)
-- [gemma_7b][https://github.com/SahilCarterr/FinetuningLLM/blob/889038653a0933922aaf5aec052c8683d450199e/gemma_7B_finetuned.ipynb]
+- [gemma_7b](https://github.com/SahilCarterr/FinetuningLLM/blob/889038653a0933922aaf5aec052c8683d450199e/gemma_7B_finetuned.ipynb)
 
 ## Overview
 
