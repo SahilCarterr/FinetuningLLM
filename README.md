@@ -15,7 +15,7 @@ The goal of this project is to compare the performance of different fine-tuned m
 
 | Model                   | Accuracy (%) |
 |-------------------------|--------------|
-| distillbert_neural_network | 40.32        |
+| ![distillbert_neural_network]("https://github.com/SahilCarterr/FinetuningLLM/blob/42828fe5c0497de38e192678f91897ac3f85e4cf/distill_bert_nueral_network.ipynb") | 40.32        |
 | bert_base_uncased       | 66.67        |
 | bart_large_mnli         | 67.30        |
 | llama3_8b               | 74.60        |
