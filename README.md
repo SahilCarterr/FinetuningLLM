@@ -1,4 +1,4 @@
-# Fine-Tuning Language Models and Non-LLM Models
+# Fine-Tuning Large Language Models and Non-LLM Models
 
 This repository contains the code and results for fine-tuning various language models (LLMs) and non-large-language models. The models included in this study are:
 
